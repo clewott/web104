@@ -1,0 +1,6 @@
+.block {
+  border: 1px solid black;
+  width:225px;
+  height: 225px;
+  display: inline-block;
+}
